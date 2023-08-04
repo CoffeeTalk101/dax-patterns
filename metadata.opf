@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">b217b4e0-2ecd-4b16-b005-27d92dd05469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b217b4e0-2ecd-4b16-b005-27d92dd05469</dc:identifier>
+        <dc:title>DAX Patterns</dc:title>
+        <dc:creator opf:file-as="Russo, Marco" opf:role="aut">Marco Russo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A pattern is a general, reusable solution to a frequent or common challenge. This book is the second edition of the most comprehensive collection of ready-to-use solutions in DAX, that you can use in Microsoft Power BI, Analysis Services Tabular, and Power Pivot for Excel.&lt;/p&gt;&lt;p&gt;The book includes the following patterns: Time-related calculations, Standard time-related calculations, Month-related calculations, Week-related calculations, Custom time-related calculations, Comparing different time periods, Semi-additive calculations, Cumulative total, Parameter table, Static segmentation, Dynamic segmentation, ABC classification, New and returning customers, Related distinct count, Events in progress, Ranking, Hierarchies, Parent-child hierarchies, Like-for-like comparison, Transition matrix, Survey, Basket analysis, Currency conversion, Budget.&lt;/p&gt;</dc:description>
+        <dc:publisher>SQLBI Corp.</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
